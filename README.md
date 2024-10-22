@@ -1,5 +1,5 @@
 
-# Olá, eu sou Matheus Silva 👋
+# Olá, eu sou Matheus 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mthsqa/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mhtsqa@gmail.com)
@@ -24,6 +24,3 @@ Bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor iniciante apaixonado p
 
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou apenas para trocar ideias sobre tecnologia!
-
-
-https://sider.ai/share/5e063b6ce3a2a803464323a0d7d61580
