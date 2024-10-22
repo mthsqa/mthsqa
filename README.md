@@ -13,12 +13,17 @@ Bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor iniciante apaixonado p
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Cypress](https://camo.githubusercontent.com/0b86206f749da8cb7b406a98fc88901e8da19ef2c59fe3117780e143510972c0/68747470733a2f2f61737365742e6272616e6466657463682e696f2f696449715f6b463072622f696476337a776d5369592e6a706567)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
 ## 🌱 Atualmente Aprendendo
 
-- [Atualmente estudando sobre Cypress para melhorar meu conhecimento sobre essa ferramenta]
-- [Tecnologia ou Habilidade 2]
+- [Atualmente estudando mais sobre Cypress para melhorar meu conhecimento sobre essa ferramenta]
+
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou apenas para trocar ideias sobre tecnologia!
 
+
+https://sider.ai/share/5e063b6ce3a2a803464323a0d7d61580
