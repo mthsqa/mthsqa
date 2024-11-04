@@ -1,8 +1,8 @@
 
 # Olá, eu sou Matheus 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mthsqa/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mhtsqa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Matheus%20Silva-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mthsqa/)
+[![Email](https://img.shields.io/badge/mthsqa@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mthsqa@gmail.com)
 
 Bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor iniciante apaixonado por criar soluções inovadoras e aprender novas tecnologias.
 
@@ -10,6 +10,7 @@ Bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor iniciante apaixonado p
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)](https://www.ruby-lang.org)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -18,9 +19,11 @@ Bem-vindo ao meu cantinho no GitHub! Sou um desenvolvedor iniciante apaixonado p
 ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
+
 ## 🌱 Atualmente Aprendendo
 
 - [Atualmente estudando mais sobre Cypress para melhorar meu conhecimento sobre essa ferramenta]
+- [Em breve... pretendo aprender Robot Framework para expandir minhas habilidades em automação de testes]
 
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou apenas para trocar ideias sobre tecnologia!
